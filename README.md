@@ -1,4 +1,4 @@
-# MangoCrisp Labs ~ AI x Food
+# MangoCrisp Labs ~ AI x Gastronomy
 
 This an experimental wing of [MangoCrisp](https://mangocrisp.com), a culinary genie in a bottle, giving you the ability to create unique and breathtaking dishes.
 
