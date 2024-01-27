@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_meta
+# Jupyter-generated files
+.jupyter/
+# Jupyter notebook backups (usually generated when Jupyter crashes)
+*.ipynb~
