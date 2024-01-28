@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "labs"
+version = "0.1.0"
+description = "MangoCrisp Experments"
+authors = ["Nikhil22 <nikhil38@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
