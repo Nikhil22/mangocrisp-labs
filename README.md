@@ -10,5 +10,5 @@ For stable diffusion experiments, check out my Notebooks in the [stable-diffusio
 
 ## Effective Training
 
-For effective training experiments, check out my Notebooks in the [training](https://github.com/Nikhil22/mangocrisp-labs/tree/main/training) folder. This makes use of the [gym](https://github.com/Nikhil22/mangocrisp-labs/tree/main/gym module.
+For effective training experiments, check out my Notebooks in the [training](https://github.com/Nikhil22/mangocrisp-labs/tree/main/training) folder. This makes use of the [gym](https://github.com/Nikhil22/mangocrisp-labs/tree/main/gym) module.
 
